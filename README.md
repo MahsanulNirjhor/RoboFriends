@@ -15,5 +15,5 @@ This is my first built-in React application. The goal of the project is to build
 - CSS
 
 ## How to Use
-1. First run `npm install`.
-2. Then run `npm start`.
+1. First run `npm install` to install all the dependencies.
+2. Then run `npm start` to start and view my complete project.
