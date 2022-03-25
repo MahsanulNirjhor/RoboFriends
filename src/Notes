@@ -1,0 +1,15 @@
+1. React.Component is a class
+2. function theke Class e convert korar jnno
+   React.Component extends korte hoi.
+2.1. State use korar jnno component k class hote hbe.
+3. function er khetre only return but class er khetre render()
+   er vitore return function boshate hbe.
+4. React render() method er madhome jante pare ki display korte hbe
+5. Value manupulate korte hole state and pure function er jnno
+    props.
+6. Mounting is the start of the app.
+
+
+
+    https://www.rooftopslushie.com/#
+    linkedin
